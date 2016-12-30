@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.oz.scnu</string>
+				<string>cn.oz.oa.ScnuIpad</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.8.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>华师OA </string>
+				<string>协同办公HD</string>
 			</dict>
 		</dict>
 	</array>
